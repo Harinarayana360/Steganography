@@ -1,5 +1,5 @@
 
-# Steganography: Hiding an image inside another
+# Steganography: Hiding an image inside another image
 
 ## Usage
 
